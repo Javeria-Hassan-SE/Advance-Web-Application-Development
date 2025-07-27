@@ -1,0 +1,133 @@
+.flag01,
+.flag02,
+.flag03,
+.flag04,
+.flag05,
+.flag06 {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+}
+
+
+.Botswana {
+    background-color: #65c3e9;
+    height: 300px;
+    width: 500px;
+    position: relative;
+}
+.Botswana div {
+    background-color: black;
+    height: 80px;
+    width: 500px;
+    position: absolute;
+    top: 100px;
+    border-top: 10px solid white;
+    border-bottom: 10px solid white;
+}
+
+
+.Austriaflag {
+    background-color: red;
+    height: 300px;
+    width: 500px;
+    position: relative;
+}
+.Austriaflag div {
+    background-color: white;
+    height: 100px;
+    width: 500px;
+    position: absolute;
+    top: 100px;
+}
+
+
+.Bangladeshflag {
+    background-color: green;
+    height: 300px;
+    width: 500px;
+    position: relative;
+}
+.Bangladeshflag div {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    border-radius: 50%;
+}
+
+
+.Barbadosflag {
+    background-color: navy;
+    height: 300px;
+    width: 500px;
+    position: relative;
+}
+.Barbadosflag div {
+    background-color: gold;
+    height: 300px;
+    width: 150px;
+    position: absolute;
+    left: 175px;
+}
+.Barbadosflag div img {
+    position: relative;
+    height: 200px;
+    width: 100px;
+    top: 50px;
+}
+
+
+.Azerbaijanflag {
+    position: relative;
+    height: 300px;
+    width: 500px;
+}
+.Azerbaijanflag :nth-child(1) {
+    height: 100px;
+    width: 500px;
+    position: absolute;
+    background-color: rgb(33, 172, 227);
+}
+.Azerbaijanflag :nth-child(2) {
+    height: 100px;
+    width: 500px;
+    position: absolute;
+    background-color: red;
+    top: 100PX;
+}
+.Azerbaijanflag :nth-child(2) img {
+    position: relative;
+    height: 140px;
+    width: 150px;
+    background: none;
+    bottom: 10px;
+}
+.Azerbaijanflag :nth-child(3) {
+    height: 100px;
+    width: 500px;
+    position: absolute;
+    background-color: green;
+    top: 200PX;
+}
+
+
+.Argentenaflag {
+    background-color: skyblue;
+    height: 300px;
+    width: 500px;
+    position: relative;
+}
+.Argentenaflag div {
+    background-color: white;
+    height: 100px;
+    width: 500px;
+    position: absolute;
+    top: 100px;
+}
+.Argentenaflag div img {
+    position: relative;
+    height: 100px;
+}
